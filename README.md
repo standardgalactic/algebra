@@ -1,5 +1,13 @@
 # Algebra
 
+[The Admissible Subspace](https://standardgalactic.github.io/algebra/the-admissible-subspace.pdf)
+
+[The Unequal Error](https://standardgalactic.github.io/algebra/the-unequal-error.pdf)
+
+[The Waste is in the Boundary](https://standardgalactic.github.io/algebra/the-waste-is-in-the-boundary.pdf)
+
+[When Failure Becomes a Signal](https://standardgalactic.github.io/algebra/when-failure-becomes-a-signal.pdf)
+
 **Algebra** is a research collection about boundaries, admissibility,
 residuals, asymmetric error, and the informational structure of failure.
 
